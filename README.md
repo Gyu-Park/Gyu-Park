@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gyuseok Park from South Korea.
 - 🌱 I’m currently studying computer science in Columbia University.
 - 👀 My first project: Online bookstore (https://github.com/Gyu-Park/Book-Store-Website-Project).
-- 📫 My latest project: Tutor search website (https://github.com/Gyu-Park/FindMyTutor-Project).
+- 📫 My second web app project: Tutor search website (https://github.com/Gyu-Park/FindMyTutor-Project).
 - 🌱 You can reach out to me via my email, kyesung8282@gmail.com or gp2693@columbia.edu.
 
 <!---
